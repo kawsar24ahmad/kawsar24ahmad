@@ -4,11 +4,14 @@
 
 
 <h1 align="center"> Hello there! "Assalamu Alaikum", which means "Peace be upon you" in Arabic. </h1>
-<h2 align="center"> I am **Tanvir Abdullah Toha** <br>
-                         "Bringing ideas to life, from front to back." </h2>
+# Hello, I'm Kawsar Ahmad
 
 ## About Me
-<h5 align="proper">I am a highly skilled and motivated Full Stack Web Developer with expertise in WordPress development. I have strong problem-solving skills and a deep understanding of web development technologies. With my attention to detail and passion for creating efficient and user-friendly web solutions, I strive to deliver high-quality work that meets the client's expectations.</h5>
+I'm a passionate web designer with a love for crafting visually stunning and user-friendly websites. With a keen eye for detail and a knack for creativity, I strive to create engaging online experiences that leave a lasting impression.
+
+My journey into web design began with a fascination for technology and a desire to bring ideas to life in the digital realm. Over the years, I've honed my skills in HTML, CSS, bootstraf, Sass, JavaScript, and jQuery, mastering the art of front-end development to create captivating designs that resonate with users.
+
+In addition to my expertise in front-end technologies, I also have a strong command of PHP, a versatile scripting language that powers dynamic and interactive web applications. Whether it's building custom WordPress themes, implementing robust backend functionality, or optimizing performance, I'm always eager to leverage PHP to elevate the functionality and interactivity of my projects.
 
 ## Skills
 - **Programming Languages**        : HTML, CSS, JavaScript, PHP, MySQL
