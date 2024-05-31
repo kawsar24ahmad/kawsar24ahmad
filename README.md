@@ -1,5 +1,7 @@
 # Hello, I'm Kawsar Ahmad
+![Kawsar Ahmad](https://github.com/kawsar24ahmad/kawsar24ahmad/blob/main/kawsar.jpg)
 
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 I'm a passionate web designer with a love for crafting visually stunning and user-friendly websites. With a keen eye for detail and a knack for creativity, I strive to create engaging online experiences that leave a lasting impression.
 
 My journey into web design began with a fascination for technology and a desire to bring ideas to life in the digital realm. Over the years, I've honed my skills in HTML, CSS, bootstraf, Sass, JavaScript, and jQuery, mastering the art of front-end development to create captivating designs that resonate with users.
@@ -70,9 +72,6 @@ With these skills in my skillset, I'll be well-equipped to handle both server-si
 
 
 ##
-![Kawsar Ahmad](https://github.com/kawsar24ahmad/kawsar24ahmad/blob/main/kawsar.jpg)
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 <b> Technological Foundation</b>
 
 ##
