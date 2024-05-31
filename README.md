@@ -1,12 +1,5 @@
-![Tanvir Abdullah Toha](https://github.com/TohaTanvir/TohaTanvir/raw/main/Tanvir%20Abdullah%20Toha.gif)
-
-
-
-
-<h1 align="center"> Hello there! "Assalamu Alaikum", which means "Peace be upon you" in Arabic. </h1>
 # Hello, I'm Kawsar Ahmad
 
-## About Me
 I'm a passionate web designer with a love for crafting visually stunning and user-friendly websites. With a keen eye for detail and a knack for creativity, I strive to create engaging online experiences that leave a lasting impression.
 
 My journey into web design began with a fascination for technology and a desire to bring ideas to life in the digital realm. Over the years, I've honed my skills in HTML, CSS, bootstraf, Sass, JavaScript, and jQuery, mastering the art of front-end development to create captivating designs that resonate with users.
@@ -15,27 +8,18 @@ In addition to my expertise in front-end technologies, I also have a strong comm
 
 ## Skills
 - **Programming Languages**        : HTML, CSS, JavaScript, PHP, MySQL
-- **Front-End Development**        : React, jQuery, Bootstrap
-- **Back-End Development**         : Node.js, Laravel
-- **Content Management System:**   : WordPress, Shopify
-- **Database**                     : MySQL, MongoDB, MariaDB
-- **Version Control**              : Git, GitHub, Bitbucket
-- **Testing**                      : Jasmine, Mocha, Chai
-- **Build Tools**                  : Webpack, Grunt, Gulp
-- **DevOps**                       : Docker, Kubernetes
-- **Cloud Platforms**              : Amazon Web Services (AWS), Google Cloud, Microsoft Azure
-- **Operating Systems**            : Windows, Linux, macOS
-- **Web Servers**                  : Apache, Nginx
-- **API**                          : REST, GraphQL
-- **UI/UX Design**                 : Figma, Sketch
-- **Project Management**           : Trello
-- **Agile Methodologies**          : Scrum, Kanban
-- **Quality Assurance**            : Selenium, Cypress
-- **Accounting Software**          : QuickBooks, Tally, SAP
-- **Office Software**              : Google Suite, Microsoft Office, Dropbox, Zoom
-- **Package Managers**             : npm, Yarn
+- **Front-End Development**        : React, jQuery, Bootstrap, Sass
+- **Back-End Development**         : php-laravel
+- **Content Management System:**   : WordPress
+- **Database**                     : MySQL
+- **Version Control**              : Git, GitHub
+- **Operating Systems**            : Windows
+- **Web Servers**                  : Apache
+- **UI/UX Design**                 : Figma
+- **Office Software**              : Google Suite, Microsoft Office,  Zoom
+- **Package Managers**             : npm, composer
 - **Front-End Tools**              : Visual Studio Code
-- **Integrated Dev Environment**   : PHPStorm, XAMPP, WAMP
+- **Integrated Dev Environment**   : XAMPP
 
 ## Experience
 
@@ -51,60 +35,17 @@ In addition to my expertise in front-end technologies, I also have a strong comm
   - Develop basic JavaScript skills, expanding interactivity.
 
 **November 2023 - January 2024: Back-End Basics and Databases**
-- **November (2023):**
-  - Master server-side programming using **Node.js** and **Express.js** for APIs.
-  - Utilize **Postman** for efficient testing and debugging of APIs.
 - **December (2023):**
   - Gain familiarity with **MySQL**, focusing on relational databases and SQL.
   - Explore CRUD operations and relational concepts.
-- **January (2024):**
-  - Dive into **MongoDB**, understanding NoSQL database management.
-  - Combine front-end and back-end skills to build dynamic web applications.
 
 **February 2024 - April 2024: Frameworks and Advanced Development**
 - **February (2024):**
   - Begin your journey into front-end frameworks with **React**.
   - Learn about components, props, and state management.
   - Start building interactive user interfaces.
-- **March (2024):**
-  - Deepen your React knowledge, exploring more advanced topics.
-  - Explore **Redux** for efficient state management.
 - **April (2024):**
   - Delve into back-end technologies like **PHP** with **PHPStorm** for **Laravel**.
-  - Implement advanced security practices using **JWT** for authentication.
-
-**May 2024 - July 2024: Full-Stack Integration and DevOps**
-- **May (2024):**
-  - Integrate front-end and back-end skills for seamless applications.
-  - Experiment with **Docker** for containerization.
-- **June (2024):**
-  - Deploy applications on cloud platforms like **AWS**, **GCP**, or **Azure**.
-  - Set up **CI/CD pipelines** using **Jenkins** or **GitLab CI/CD**.
-- **July (2024):**
-  - Optimize applications for performance and scalability.
-  - Monitor applications with **Prometheus** and **Grafana**.
-
-**August 2024 - October 2024: Specialization and Mastery**
-- **August (2024):**
-  - Consider specializing further, focusing on **WordPress development**.
-  - Learn about WordPress themes, plugins, and customization.
-- **September (2024):**
-  - Explore advanced **WordPress development** topics.
-  - Gain expertise in troubleshooting and debugging WordPress issues.
-- **October (2024):**
-  - Contribute to **WordPress community** by sharing knowledge on forums or platforms.
-  - Collaborate on WordPress-related open-source projects on **GitHub**.
-
-**November 2024 - January 2025: Innovations and Beyond**
-- **November (2024):**
-  - Investigate **advanced JavaScript features** and ES6+ syntax for more efficient coding.
-  - Explore AI and machine learning integration into **WordPress sites**.
-- **December (2024):**
-  - Stay updated with the latest in WordPress trends and updates.
-  - Engage with the WordPress community through blogs, podcasts, and conferences.
-- **January (2025):**
-  - Share insights and experiences by contributing to WordPress-related content.
-  - Consider offering workshops or online courses on **WordPress development**.
 
 With these skills in my skillset, I'll be well-equipped to handle both server-side scripting and front-end development, making you a more versatile and capable web developer.
 
@@ -116,19 +57,17 @@ With these skills in my skillset, I'll be well-equipped to handle both server-si
 
 3. I actively engage in activities like solving puzzles, playing chess, and participating in brain-teaser challenges to improve my problem-solving skills.
 
-4. I contribute to open-source projects on platforms like GitHub to gain real-world coding experience and improve my collaboration skills.
+4. I regularly read blogs, follow tech influencers, and attend webinars or conferences to stay updated with the latest trends in technology.
 
-5. I regularly read blogs, follow tech influencers, and attend webinars or conferences to stay updated with the latest trends in technology.
+5. I work on personal projects that showcase my skills and creativity, allowing me to explore new concepts and build a strong portfolio.
 
-6. I work on personal projects that showcase my skills and creativity, allowing me to explore new concepts and build a strong portfolio.
+6. I enjoy teaching and mentoring aspiring developers, as it helps me reinforce my own understanding of concepts and give back to the developer community.
 
-7. I have an understanding of user interface (UI) and user experience (UX) design, and I consistently learn about design principles, experiment with prototypes, and study the latest UI/UX trends.
+## Projects
+- <a href="https://kawsar24ahmad.github.io/exdos/">exdos</a>
+- <a href="https://kawsar24ahmad.github.io/luxelife/">luxelife</a>
+- <a href="https://kawsar24ahmad.github.io/emymakers-sass/">emymakers-sass</a>
 
-8. I actively engage in activities like attending tech meetups, joining developer communities, and participating in online forums to network with other professionals, learn from their experiences, and gain new job opportunities.
-
-9. I automate repetitive tasks and learn scripting languages like PowerShell to enhance my productivity and efficiency as a full stack developer.
-
-10. I enjoy teaching and mentoring aspiring developers, as it helps me reinforce my own understanding of concepts and give back to the developer community.
 
 ##
 ![Tanvir Abdullah Toha](https://github.com/TohaTanvir/TohaTanvir/raw/main/Tanvir%20Abdullah%20toha%20(1).jpg)
@@ -148,17 +87,12 @@ With these skills in my skillset, I'll be well-equipped to handle both server-si
 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ##
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ##
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-
 ##
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -168,24 +102,10 @@ With these skills in my skillset, I'll be well-equipped to handle both server-si
 
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ##
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-
-##
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -195,19 +115,12 @@ With these skills in my skillset, I'll be well-equipped to handle both server-si
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ##
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
 
 ##
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-
 ##
-
-
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
@@ -220,23 +133,11 @@ With these skills in my skillset, I'll be well-equipped to handle both server-si
 
 ##
 ![Lenovo](https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
-![LG](https://img.shields.io/badge/lg-a50034.svg?style=for-the-badge&logo=lg&logoColor=white)
-
-##
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
 ##
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TohaTanvir)
-
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ##
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
@@ -252,7 +153,7 @@ With these skills in my skillset, I'll be well-equipped to handle both server-si
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TohaTanvir&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsar24ahmad&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
 <br> <br>
@@ -275,27 +176,23 @@ If you have any questions or would like to connect, **feel free to reach out.** 
 
 <h1 align="center">🌐 Reach Me Out :</h2>
 
-**E-mail**             : rpp.toha.mkt@gmail.com <br>
-**Direct Message**     : https://discord.com/channels/tohatanvir
+**E-mail**             : kawsar24ahmad@gmail.com <br>
+**Direct Message**     : https://discord.com/channels/kawsar5229
 
 <h2 align="center"> 
     
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tohatanvir)
-[![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in//users/18117697/tohatanvir)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mdkawsar.ahmeed)
+[![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in/kawsar-ahmad-aa5b57310)
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@tohatanvir)
-
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18117697/tohatanvir)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/TohaTanvir)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@kawsar5229)
 </h2>
 </div>
 
 <div align="center">  
-<img src="https://img.shields.io/github/followers/TohaTanvir?logo=github&style=for-the-badge&color=ffffff&labelColor=312e81" /></a>
-<a href="https://github.com/TohaTanvir">
-    <img src="https://komarev.com/ghpvc/?username=TohaTanvir" alt = "profile views count" />
+<img src="https://img.shields.io/github/followers/kawsar24ahmdad?logo=github&style=for-the-badge&color=ffffff&labelColor=312e81" /></a>
+<a href="https://github.com/kawsar24ahmad">
+    <img src="https://komarev.com/ghpvc/?username=kawsar24ahmad" alt = "profile views count" />
 </a>
 </div>
 
-![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
