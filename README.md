@@ -70,7 +70,7 @@ With these skills in my skillset, I'll be well-equipped to handle both server-si
 
 
 ##
-![Tanvir Abdullah Toha](https://github.com/TohaTanvir/TohaTanvir/raw/main/Tanvir%20Abdullah%20toha%20(1).jpg)
+![Kawsar Ahmad](https://github.com/kawsar24ahmad/kawsar24ahmad/blob/main/kawsar.jpg)
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 <b> Technological Foundation</b>
